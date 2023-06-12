@@ -4,7 +4,7 @@
  ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 
 
 - 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on cool projects
+- 👯 I'm looking to collaborate on AI projects
 
 
 <!--
